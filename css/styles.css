@@ -673,6 +673,7 @@ ul {
 	height: 30px;
 	border: none;
   background: var(--primary-white-color);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* t e x t - p o r t f o l i o  */
